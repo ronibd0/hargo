@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://info.bdmeter.info"
 languageCode = "en-us"
-title = "Hargo | Hugo Ecommerce Site"
+title = "BD Meter | BD Ecommerce Site"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -84,8 +84,8 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Get products online all in one place"
+author = "bdmeter"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -94,11 +94,11 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
+mobile = "01997007447"
+email = "ronibd0@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2020 [BDmeter](https://bdmeter.info) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
